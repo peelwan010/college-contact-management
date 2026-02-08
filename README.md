@@ -46,9 +46,9 @@ The project currently works with three categories of institutional data:
 ## Project Structure
 
 college-contact-management/
-├── cli_app.py          # Command Line Interface
-├── gui_app.py          # Tkinter GUI application
-├── loaders.py          # Excel loading, cleaning, and normalization logic
+├── cli_app.py
+├── gui_app.py
+├── loaders.py
 ├── data/
 │   ├── aktu_roll_list.xlsx
 │   ├── second_year_students.xlsx
@@ -108,3 +108,4 @@ This project was developed as an academic and learning-focused exercise. The inc
 - Detailed student information view on row selection
 - Database backend (SQLite) instead of Excel files
 - Enhanced GUI layout and theming
+
